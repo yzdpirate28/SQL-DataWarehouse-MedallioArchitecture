@@ -2,7 +2,7 @@
 # SQL Data Warehouse – Medallion Architecture
 
 ## Overview
-This repository demonstrates a modern data warehouse implementation using the Medallion Architecture (Bronze, Silver, Gold layers) on SQL Server. It is designed for scalable, maintainable, and high-quality analytics, following best practices in data engineering.
+This repository demonstrates a modern data warehouse implementation using the Medallion Architecture (Bronze, Silver, Gold layers) . It is designed for scalable, maintainable, and high-quality analytics, following best practices in data engineering.
 
 ## Architecture: Medallion Layers
 ![Data Warehouse Architecture](docs/datawarehouse-architecture.png)
